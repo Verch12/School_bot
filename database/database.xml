@@ -1,0 +1,740 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7920</WindowHeight>
+  <WindowWidth>21570</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="14"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFCCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#99FF99" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#66CCFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="41" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="62.25" ss:Span="3"/>
+   <Column ss:Index="5" ss:Width="63.75" ss:Span="2"/>
+   <Column ss:Index="8" ss:Width="78.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Column ss:Width="72"/>
+   <Column ss:Width="72.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Column ss:Width="70.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5а</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5б</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">6а</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">6б</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">7а</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">7б</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8а</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8б</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">9а</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">9б</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">9в</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ИЗО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физика Сушков</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ-нем</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">история</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">матем</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">гришина ис</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">икт</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">мат П/хим</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">история</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">матем</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">история</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">биол</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ-нем</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ист/икт</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ОБЖ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">дорофеева ис</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физкульт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">матем</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">гришина ис</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ИКТ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">серухина ис</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">литерат</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">математ/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ист/биол/лит</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">фг</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">история</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ИКТ/англ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">обществ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физкульт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">история</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ИКТ/англ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">общ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">серухина ис</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физика</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">матем</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">общ/икт</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">гришина об</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">икт/нем</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">биолог</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">гришина об</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">серухина ис</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русск/лит</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">нем/</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">серухина об</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ОБЖ</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русск/лит</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">экон/хим</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">экология</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ОДНКНР</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ИКТ/</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русск</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русск</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">право/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ОДНКНР</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физкуьт</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">технол</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русск</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">гуляева ис</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">хим/ист/икт</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">англ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">семенченко ис</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ист</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ОДНКНР</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">серухина ис</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русск/род</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ист</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">химия</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ОДНКНР</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">биология</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">оселевская ис</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ИЗО</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ИКТ</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">дорофеева ис</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ОБЖ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">литерат</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">изо</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ИКТ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ОБЖ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ист/мат</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">р/м пр</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">р/м пр</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русск</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">история</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">пр</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">географ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русск</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">гришина ис</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">семенченко об</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">обществ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">биол</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">гришина ис</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">биол</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ-нем</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">обществ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">серухина об</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">обществ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">биол</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">физика</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">история</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">серухина об</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">обществ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">матемт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">русский/род</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">общест</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">биол</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">изо</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">общ/биол</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Серухина ис</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">химия</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">гуляева ис</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ИКТ/биол</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">астрономия</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">икт</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ОБЖ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ИЗО</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">биолог</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">оселевская ис</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ОБЖ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физкульт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ОБЖ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ-нем</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">географ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">русский</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">музыка</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">технолог</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Серухина ис</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физкульт</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ИКТ/</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">литерат</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ИКТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">изо</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">англ</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">физика</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ФГ</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">экология</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">математ</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>115</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>13</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
